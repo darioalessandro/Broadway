@@ -5,7 +5,7 @@
   "license": "BSD",
   "repository": {
     "type": "git",
-    "url": "https://github.com/defunctzombie/Broadway"
+    "url": "https://github.com/darioalessandro/Broadway"
   },
   "description": "A JavaScript H.264 decoder",
   "keywords": [
